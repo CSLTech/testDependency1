@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CSLTech/testDependency1#readme",
   "dependencies": {
+    "request": "^2.87.0",
     "testsubdependency": "git+https://github.com/CSLTech/testSubDependency.git#master"
   }
 }
