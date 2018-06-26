@@ -1,5 +1,5 @@
 module.exports = {
-    version: "2",
+    version: "3",
     branch: "newBranch",
     sub: require("testsubdependency")
 };
