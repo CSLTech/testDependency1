@@ -1,4 +1,4 @@
 module.exports = {
-    version: "1",
+    version: "2",
     sub: require("testsubdependency")
 };
