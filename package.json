@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CSLTech/testDependency1#readme",
   "dependencies": {
+    "mockgo": "^1.1.7",
     "request": "^2.87.0",
     "testsubdependency": "git+https://github.com/CSLTech/testSubDependency.git#master"
   }

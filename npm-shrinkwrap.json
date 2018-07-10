@@ -290,7 +290,7 @@
       }
     },
     "testsubdependency": {
-      "version": "git+https://github.com/CSLTech/testSubDependency.git#3697d0ae9d536514ff57635fdd4d69d6d62569fc",
+      "version": "git+https://github.com/CSLTech/testSubDependency.git#0c2670152707fe89954bfc37af0c93832c29743d",
       "from": "git+https://github.com/CSLTech/testSubDependency.git#master",
       "dependencies": {
         "ansi-regex": {
